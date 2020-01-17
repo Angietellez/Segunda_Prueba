@@ -1,0 +1,66 @@
+/*aca inicia la segunda pagina*/
+
+h1{text-align: center;
+    font-size: 50px;
+    }
+    
+    
+    nav {text-align: center;
+    font-size: 35px;
+    }
+    
+    a {color: whitesmoke;
+    margin: 35px;
+    }
+    
+    .menu:hover { color: lightblue;
+    }
+
+iframe {margin: 40px 0px 40px 110px;
+    width: 600px;
+    height: 400px;
+}
+
+video {width: 550px;
+margin: 50px 0px 0px 60px;
+}
+
+
+caption {color: khaki;
+}
+
+table, tr, th,td {border: 2PX cornflowerblue;
+    border-collapse: collapse;
+    margin: auto;
+    font-size: 25px;
+    border-style: groove;
+}
+
+#videotabla {width: 350px;
+    height: 200px;
+    margin: 0px auto;
+}
+
+th {color: darkgray;
+}
+
+td {color: blanchedalmond;
+    width: 100px;
+}
+
+button {color: black;
+  margin: 0px auto;
+  display: block;
+}
+
+form { border: 2px solid chartreuse;
+    
+}
+
+
+.formulario {color:white;
+}
+
+
+label{color: white;
+}
